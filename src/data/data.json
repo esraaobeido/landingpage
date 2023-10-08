@@ -1,31 +1,30 @@
 {
     "Header": {
-
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-
+        "title": "Welcome to Tashbeek",
+        "paragraph": "Connect, Collaborate, and Grow Your Professional Network with Tashbeek"
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Tashbeek is more than just a networking platform; it's a vibrant community where professionals come together to foster meaningful connections and propel their careers to new heights. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Connect with Industry Leaders",
+            "Unlock Opportunities for Career Growth",
+            "Foster Meaningful Professional Relationships",
+            "Stay Informed about Industry Trends"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Access Exclusive Networking Events",
+            "Showcase Your Expertise and Achievements",
+            "Join Specialized Professional Groups",
+            "Accelerate Your Professional Development"
         ]
-    },
+    }
+,    
     "Services": [{
             "icon": "fa fa-wordpress",
             "name": "Lorem ipsum dolor",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
-        {
+        { 
             "icon": "fa fa-cart-arrow-down",
             "name": "Consectetur adipiscing",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
@@ -114,23 +113,25 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Messaging",
+            "text": "Explore the power of connection with Tashbeek's messaging feature, Our platform empowers you to effortlessly add friends, expanding your professional network. Initiate meaningful conversations by creating personalized chats with colleagues and industry peers."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
+            "title": "Professional Insights",
+            "text": "Gain valuable network insights with Tashbeek. Explore trends, discover new opportunities, and stay informed about the latest developments in your industry."
+        }
+        ,
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Announcements Hub",
+            "text": "Stay in the loop with Tashbeek's Announcements Hub. Receive important updates, industry news, and exclusive opportunities directly through our platform's centralized announcement system."
+        }
+        ,
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Knowledge Sharing",
+            "text": "Foster a culture of knowledge sharing on Tashbeek. Share your insights, contribute to discussions, and participate in thought leadership to enrich the professional community."
         }
     ]
 }

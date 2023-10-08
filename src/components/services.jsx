@@ -5,8 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Elevate your experience with our comprehensive range of services. At Tashbeek, we are committed to providing you with top-notch solutions that cater to your professional needs, Whether you're seeking networking opportunities, career development resources.
           </p>
         </div>
         <div className='row'>
