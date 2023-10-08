@@ -133,5 +133,12 @@
             "title": "Knowledge Sharing",
             "text": "Foster a culture of knowledge sharing on Tashbeek. Share your insights, contribute to discussions, and participate in thought leadership to enrich the professional community."
         }
+    ],
+    "cardsData" : [
+        { "icon": "fa fa-github","icon1": "fa fa-linkedin","icon2": "fa fa-envelope", "github": "https://github.com/johndoe", "gmail": "mailto:johndoe@gmail.com", "linkedin": "https://www.linkedin.com/in/johndoe/", "name": "Anas Alsmadi", "job": "Full stack Developer", "img": "https://media.licdn.com/dms/image/C4E03AQHMkbqWQvJwNA/profile-displayphoto-shrink_800_800/0/1657108303529?e=1702512000&v=beta&t=Gp9ox3zc8fvOGDhQuQrFSNmV5rVFvdb7FosbBF5jK24" },
+        { "icon": "fa fa-github","icon1": "fa fa-linkedin","icon2": "fa fa-envelope", "github": "https://github.com/johndoe", "gmail": "mailto:johndoe@gmail.com", "linkedin": "https://www.linkedin.com/in/johndoe/", "name": "Mohannad Abu Qarea", "job": "Full stack Developer", "img": "https://avatars.githubusercontent.com/u/128734531?v=4" },
+        { "icon": "fa fa-github","icon1": "fa fa-linkedin","icon2": "fa fa-envelope","github": "https://github.com/johndoe", "gmail": "mailto:johndoe@gmail.com", "linkedin": "https://www.linkedin.com/in/johndoe/", "name": "Mohammad Aljamal", "job": "Full stack Developer", "img": "https://avatars.githubusercontent.com/u/128578725?v=4" },
+        { "icon": "fa fa-github","icon1": "fa fa-linkedin","icon2": "fa fa-envelope","github": "https://github.com/johndoe", "gmail": "mailto:johndoe@gmail.com", "linkedin": "https://www.linkedin.com/in/johndoe/", "name": "Motasem Sulaiman", "job": "Full stack Developer", "img": "https://media.licdn.com/dms/image/D4E03AQGz8GnQGR295A/profile-displayphoto-shrink_800_800/0/1693498791598?e=1702512000&v=beta&t=Z5Zh1YURPtt3UOOryjQqoligVlXqmZr9REa57F3TToA" },
+        { "icon": "fa fa-github","icon1": "fa fa-linkedin","icon2": "fa fa-envelope","github": "https://github.com/johndoe", "gmail": "mailto:johndoe@gmail.com", "linkedin": "https://www.linkedin.com/in/johndoe/", "name": "Esraa Obeido", "job": "Full stack Developer", "img": "https://media.licdn.com/dms/image/C4D03AQFAp2EtptkmzQ/profile-displayphoto-shrink_800_800/0/1630698403792?e=1702512000&v=beta&t=E7b79TDR-squYa1dT_NNL6Qvied-wn_FC0GL7h73luQ" }
     ]
 }
